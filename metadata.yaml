@@ -1,0 +1,34 @@
+_repo: The-daughter-of-the-dawn-b-A-realistic-story-of-Maori-magic_73312
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Piffard, Harold
+    birthdate: 1867
+    deathdate: 1938
+    gutenberg_agent_id: '9844'
+    url: http://www.gutenberg.org/2009/agents/9844
+    wikipedia: https://en.wikipedia.org/wiki/Harold_H._Piffard
+creator:
+  author:
+    agent_name: Hodder, William Reginald
+    gutenberg_agent_id: '57033'
+    url: http://www.gutenberg.org/2009/agents/57033
+description: ''
+gutenberg_issued: '2024-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73312'
+language: en
+pgterms:marc904: https://books.google.com/books?id=l8BUAAAAYAAJ
+pgterms:marc905: 20240227115551hodder
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aBoston :$bL. C. Page & Company, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The daughter of the dawn : $b A realistic story of Maori magic'
+url: http://www.gutenberg.org/ebooks/73312

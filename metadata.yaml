@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '9844'
     url: http://www.gutenberg.org/2009/agents/9844
     wikipedia: https://en.wikipedia.org/wiki/Harold_H._Piffard
+covers:
+- cover_type: archival
+  image_path: 73312-h/images/cover.jpg
 creator:
   author:
     agent_name: Hodder, William Reginald
     gutenberg_agent_id: '57033'
     url: http://www.gutenberg.org/2009/agents/57033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73312#The-daughter-of-the-dawn-b-A-realistic-story-of-Maori-magic
 gutenberg_issued: '2024-04-01'
 gutenberg_type: Text
 identifiers:
